@@ -1,4 +1,4 @@
-body{
+::view-transition-new{
     color: black;
     background: lightpink;
     font-family: "Dancing Script", cursive;
@@ -6,16 +6,16 @@ body{
     margin-bottom: 100px;
 }
 .chamada{
-    background; rbg(255, 182, 193)
+    background: rbg(255, 182, 193);
     margin-top: 80px;
-    margin-bottom 80px;
+    margin-bottom: 80px;
     display: flex;
     justify-content: center;
 }
 header{
-    color pink;
+    color: pink;
     font-size: 40px;
-    border-bottom: solid 3px pink
+    border-bottom: solid 3px pink;
     padding: 20px
 }
 .chamada-texto{
