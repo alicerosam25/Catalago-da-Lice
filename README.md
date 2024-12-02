@@ -1,2 +1,2 @@
 # Catalago-da-Lice
-https://github.com/alicerosam25/Catalago-da-Lice.git
+https://alicerosam25.github.io/Catalago-da-Lice/
